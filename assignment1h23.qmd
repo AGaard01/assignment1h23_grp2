@@ -20,4 +20,4 @@ language: nb.yaml
 
 ## Reproduserbarhet
 
-
+## Konklusjon
