@@ -53,7 +53,7 @@ Gir mulighet til å kunne oppdage feil og svakheter
 
     -   Replikasjonsstudier
 
-@goodman2016 @peng2011 @mcnutt2014
+@goodman2016 @peng2011 @mcnutt2014 @ram2013
 
 ## Tre typer reproduserbarhet
 
