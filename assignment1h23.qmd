@@ -37,21 +37,23 @@ Bekrefte funn og etablere en solid vitenskapelig kunnskapsbase
 
 Gir mulighet til å kunne oppdage feil og svakheter
 
-Hindringer for reproduserbarhet:
+-   Hindringer for reproduserbarhet:
 
--   Mangel på tilgjengelige data og metoder
+    -   Mangel på tilgjengelige data og metoder
 
--   Publiseringspress
+    -   Publiseringspress
 
--   Manglende motivasjon
+    -   Manglende motivasjon
 
-Hvordan fremme reproduserbarhet:
+-   Hvordan fremme reproduserbarhet:
 
--   Data- og metodeåpenhet
+    -   Data- og metodeåpenhet
 
--   Pre-registrering av studier
+    -   Pre-registrering av studier
 
--   Replikasjonsstudier
+    -   Replikasjonsstudier
+
+@goodman2016 @peng2011 @mcnutt2014
 
 ## Tre typer reproduserbarhet
 
