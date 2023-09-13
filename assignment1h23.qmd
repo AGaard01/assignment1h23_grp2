@@ -55,13 +55,13 @@ Hvordan fremme reproduserbarhet:
 
 ## Tre typer reproduserbarhet
 
--   @goodman2016
+-   @goodman2016 - *What does research reproducibility mean?*
 
--   Metoders reproduserbarhet
+-   Metoders reproduserbarhet - gjenta metoden nøyaktig
 
--   Resultat-reproduserbarhet
+-   Resultaters reproduserbarhet - oppnå samme resultat ved mest mulig lignende metode
 
--   Inferensiell reproduserbarhet
+-   Inferensiell reproduserbarhet - trekke kvalitativt lignende konklusjoner
 
 ## Har forskningsresultater som ikke er reproduserbare noe verdi?
 
@@ -70,5 +70,7 @@ Hvordan fremme reproduserbarhet:
 -   Vanskelig å stole på resultat dersom det ikke lar seg reprodusere
 
 -   Problemer ved testing av reproduserbarhet
+
+-   Dersom et forskningsresultat ikke lar seg reprodusere blir det regnet som å ha liten verdi
 
 ## Kilder
