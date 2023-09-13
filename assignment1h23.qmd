@@ -16,8 +16,59 @@ format:
     fig-width: 12
 editor: visual
 language: nb.yaml
+title-slide-attributes: 
+  data-background-image: "https://www.statnews.com/wp-content/uploads/2016/06/Reproducibility_AP106041067.jpg"
+  data-background-size: 1750px, cover
+  data-background-position: 2% 98%, center
+bibliography: [ds-h23.bib]
 ---
 
 ## Reproduserbarhet
 
-## Konklusjon
+![](images/reproducibility.jpg){fig-align="left" width="1500"}
+
+@mcnutt2014 @goodman2016
+
+## Hvorfor er reproduserbarhet viktig for forskning?
+
+Blir brukt som en kvalitetskontroll
+
+Bekrefte funn og etablere en solid vitenskapelig kunnskapsbase
+
+Gir mulighet til å kunne oppdage feil og svakheter
+
+Hindringer for reproduserbarhet:
+
+-   Mangel på tilgjengelige data og metoder
+
+-   Publiseringspress
+
+-   Manglende motivasjon
+
+Hvordan fremme reproduserbarhet:
+
+-   Data- og metodeåpenhet
+
+-   Pre-registrering av studier
+
+-   Replikasjonsstudier
+
+## Tre typer reproduserbarhet
+
+-   @goodman2016
+
+-   Metoders reproduserbarhet
+
+-   Resultat-reproduserbarhet
+
+-   Inferensiell reproduserbarhet
+
+## Har forskningsresultater som ikke er reproduserbare noe verdi?
+
+-   "Replication crisis"
+
+-   Vanskelig å stole på resultat dersom det ikke lar seg reprodusere
+
+-   Problemer ved testing av reproduserbarhet
+
+## Kilder
